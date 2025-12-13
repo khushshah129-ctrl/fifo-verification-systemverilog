@@ -97,8 +97,3 @@ FIFO-Verification/
 - [Skills I gained from this diploma](https://www.linkedin.com/posts/mohamed-hussein-274337231_digitalverification-systemverilog-uvm-activity-7254440715164782592-xCBV?utm_source=share&utm_medium=member_desktop).
 - [Eng. Kareem's LinkedIn](https://www.linkedin.com/in/kareem-waseem/).
 - For updates check out the [facebook group](https://www.facebook.com/share/g/15EpEScjx3/).
-
-## Contact Me!
-- [Email](mailto:Mohamed_Hussein2100924@outlook.com)
-- [WhatsApp](https://wa.me/+2001097685797)
-- [LinkedIn](https://www.linkedin.com/in/mohamed-hussein-274337231)
