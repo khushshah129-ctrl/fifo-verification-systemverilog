@@ -1,10 +1,4 @@
-////////////////////////////////////////////////////////////////////////////////
-// Author: Kareem Waseem
-// Course: Digital Verification using SV & UVM
-//
-// Description: FIFO Design 
-// 
-////////////////////////////////////////////////////////////////////////////////
+
 module FIFO(data_in, wr_en, rd_en, clk, rst_n, full, empty, almostfull, almostempty, wr_ack, overflow, underflow, data_out);
 parameter FIFO_WIDTH = 16;
 parameter FIFO_DEPTH = 8;
